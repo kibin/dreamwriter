@@ -1,4 +1,4 @@
-module Dreamwriter.Mailboxes (Addresses, Signals, addresses, signals) where
+module Dreamwriter.Mailboxes exposing (Addresses, Signals, addresses, signals)
 
 import Dreamwriter exposing (..)
 

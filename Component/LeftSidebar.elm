@@ -1,4 +1,4 @@
-module Component.LeftSidebar where
+module Component.LeftSidebar exposing (..)
 
 import Dreamwriter exposing (..)
 

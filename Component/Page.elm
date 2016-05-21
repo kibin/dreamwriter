@@ -1,4 +1,4 @@
-module Component.Page where
+module Component.Page exposing (..)
 
 import Dreamwriter exposing (..)
 

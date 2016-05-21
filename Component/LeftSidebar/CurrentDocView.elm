@@ -1,4 +1,4 @@
-module Component.LeftSidebar.CurrentDocView (view) where
+module Component.LeftSidebar.CurrentDocView exposing (view)
 
 import Dreamwriter exposing (..)
 

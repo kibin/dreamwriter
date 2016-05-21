@@ -1,4 +1,4 @@
-module Component.LeftSidebar.OpenMenuView (view) where
+module Component.LeftSidebar.OpenMenuView exposing (view)
 
 import Dreamwriter exposing (..)
 

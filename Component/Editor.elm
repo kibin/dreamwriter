@@ -1,4 +1,4 @@
-module Component.Editor where
+module Component.Editor exposing (..)
 
 import Dreamwriter exposing (..)
 import Component.WordGraph as WordGraph
